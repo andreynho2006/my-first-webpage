@@ -1,6 +1,6 @@
 # _Favorite things on web_
 
-#### _A list with photos of things I like on the web, 2017-04012_
+#### _A list with photos of things I like on the web, 2017-04-12_
 
 #### By _**Andrei Cirlan**_
 
