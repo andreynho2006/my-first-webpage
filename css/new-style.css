@@ -12,14 +12,30 @@ p.author{
 .important{
   color: red;
 }
+
 .unimportant{
   color: blue;
 }
+
 .impo{
   font-style: oblique;
   color: red;
 }
+
 img.fido{
   width: 300px;
   float: left;
+}
+
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: yellow;
+  padding: 10px 30px 10px 20px;
+}
+
+.column{
+  width: 30%;
+  float: left;
+  padding-left:40px;
 }
