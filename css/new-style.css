@@ -15,3 +15,7 @@ p.author{
 .unimportant{
   color: blue;
 }
+.impo{
+  font-style: oblique;
+  color: red;
+}
